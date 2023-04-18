@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pumpkin9841&theme=dark&layout=compact)
-
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pumpkin9841&theme=dark&layout=compact)
+ -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pumpkin9841&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
