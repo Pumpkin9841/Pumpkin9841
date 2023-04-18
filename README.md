@@ -1,4 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋
+ -->
+ 
+ # Pumpkin [![HitCount](https://hits.dwyl.com/Pumpkin9841/Pumpkin9841.svg?style=flat-square)](http://hits.dwyl.com/Pumpkin9841/Pumpkin9841)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pumpkin9841&theme=dark&layout=compact)
  -->
@@ -8,7 +11,6 @@
 <!--
 **Pumpkin9841/Pumpkin9841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Pumpkin [![HitCount](https://hits.dwyl.com/Pumpkin9841/Pumpkin9841.svg?style=flat-square)](http://hits.dwyl.com/Pumpkin9841/Pumpkin9841)
 
 
 Here are some ideas to get you started:
